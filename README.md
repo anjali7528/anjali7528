@@ -7,6 +7,7 @@
 <img style="padding:10px 10px 10px 0px;" height="40em" alt="Email" src="./Email.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/anjaligandhi248/" target="_blank">
+   
 <img style="padding:10px;" height="40em" alt="LinkedIn" src="./Linkedin.png" />
 </a>
 <a target="_blank" href="https://twitter.com/AnjaliGandhi24" target="_blank">
